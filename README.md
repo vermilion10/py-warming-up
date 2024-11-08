@@ -1,2 +1,2 @@
 # py-warming-up
-basic py
+currently learning py, same program as c-warming-up
